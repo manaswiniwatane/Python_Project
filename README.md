@@ -1,1 +1,1 @@
-Tasl 1 for CodSoft internship i.e to creatr To-Do-List.
+Tasl 1 for CodSoft internship i.e to create a To-Do-List.
